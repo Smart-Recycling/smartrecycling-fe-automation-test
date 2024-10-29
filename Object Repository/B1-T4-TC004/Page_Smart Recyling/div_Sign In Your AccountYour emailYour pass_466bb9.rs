@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign In Your AccountYour emailYour pass_466bb9</name>
+   <tag></tag>
+   <elementGuidId>a2f0b119-8f61-46a9-8dab-138328e4d6aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>185d623d-3ed7-408f-80dd-bfc791756c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full lg:max-w-xl p-6 space-y-8 sm:p-8 bg-white rounded-lg shadow-xl</value>
+      <webElementGuid>bb70eb0c-2813-4df0-86c0-37c6e4424ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In Your AccountYour emailYour passwordSign in your accountDon't have account? Sign up your account</value>
+      <webElementGuid>74c60cf8-4895-4ddc-807e-c94f4b7408c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen flex items-center justify-center&quot;]/div[@class=&quot;container py-8 px-4 mx-auto max-w-screen lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16&quot;]/div[2]/div[@class=&quot;w-full lg:max-w-xl p-6 space-y-8 sm:p-8 bg-white rounded-lg shadow-xl&quot;]</value>
+      <webElementGuid>c22e8f07-2c28-4940-b0b0-6765887a9b4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div</value>
+      <webElementGuid>71735283-ffde-4d24-af71-2210a6c26337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Home'])[1]/following::div[2]</value>
+      <webElementGuid>fbb28551-2bc7-4a1c-880d-7fa514ca18ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome Back!'])[1]/following::div[2]</value>
+      <webElementGuid>4133c69c-2f72-485f-9ca5-0d6b4cde156d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>35542969-41a5-45d8-adba-649947c30dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Sign In Your AccountYour emailYour passwordSign in your accountDon&quot; , &quot;'&quot; , &quot;t have account? Sign up your account&quot;) or . = concat(&quot;Sign In Your AccountYour emailYour passwordSign in your accountDon&quot; , &quot;'&quot; , &quot;t have account? Sign up your account&quot;))]</value>
+      <webElementGuid>1fea157d-855c-44fa-8fcb-34038779200e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

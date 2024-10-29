@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Send Reports</name>
+   <tag></tag>
+   <elementGuidId>1ce8ed9b-67a1-4851-9479-e9c8ccdafb8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1da1b561-270e-480e-b5a7-2eadf4a834a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>eccc7ce0-8de6-44d5-a3f7-185d90121b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-60 px-5 py-3 text-base font-medium bg-primary hover:bg-green-700 text-white rounded-lg</value>
+      <webElementGuid>da8b95fe-73af-4bf2-b161-9fa994b93ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send Reports</value>
+      <webElementGuid>c4bd1ff0-7cec-44f8-a9cf-bb9829d9424a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container mx-auto max-[640px]:my-10 sm:my-10 md:my-10 lg:my-10 xl:my-10&quot;]/div[@class=&quot;max-w-screen-xl px-4 mx-auto&quot;]/div[@class=&quot;pt-5 mx-auto max-w-screen-xl&quot;]/form[@class=&quot;mt-8 space-y-6&quot;]/button[@class=&quot;w-60 px-5 py-3 text-base font-medium bg-primary hover:bg-green-700 text-white rounded-lg&quot;]</value>
+      <webElementGuid>f1dd6f3e-6ab9-4955-9188-7b2b92a9e849</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>47eb26e9-56c4-45f6-b423-08aea801154e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/form/button</value>
+      <webElementGuid>7d2c9c25-3728-4480-a88d-af22dd43944c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your location'])[1]/following::button[1]</value>
+      <webElementGuid>080dd126-e209-4c66-983c-2e4db8d180da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your subject'])[1]/following::button[1]</value>
+      <webElementGuid>22a56ad0-f510-4b61-9711-af692b19987f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Recycling'])[1]/preceding::button[2]</value>
+      <webElementGuid>89338192-c767-4312-9cb8-621bb6814f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/preceding::button[2]</value>
+      <webElementGuid>6fadfb38-960b-49a2-bd10-bf54f7c1bbd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send Reports']/parent::*</value>
+      <webElementGuid>2b9a758c-9ebf-45fb-9368-c347e62ff4e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>adcd4d37-3e77-404e-b93c-848133517c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Send Reports' or . = 'Send Reports')]</value>
+      <webElementGuid>97d5c7b0-8a57-4603-beb0-4f8017acc829</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

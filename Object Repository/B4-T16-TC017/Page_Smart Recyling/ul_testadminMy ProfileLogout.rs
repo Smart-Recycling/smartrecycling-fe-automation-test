@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_testadminMy ProfileLogout</name>
+   <tag></tag>
+   <elementGuidId>2a2e059e-80a0-4cca-b5cf-f9711a5b87b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Recycling™'])[1]/following::ul[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.ant-dropdown-menu.ant-dropdown-menu-root.ant-dropdown-menu-vertical.ant-dropdown-menu-light.css-5wsri9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>64d82f0e-7a2b-4eb0-bdc4-f2fbb8c06c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-dropdown-menu ant-dropdown-menu-root ant-dropdown-menu-vertical ant-dropdown-menu-light css-5wsri9</value>
+      <webElementGuid>e72df503-6d0a-4bfe-9b03-e3ca5bb9863d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>df8bb295-3f03-4c42-8c2c-13c9002689c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>59af928e-65f3-44bf-a822-0744976d3b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-list</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8c6be045-cf44-4dfd-a99a-c2c8ebba1ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testadminMy ProfileLogout</value>
+      <webElementGuid>b95d5d2a-5eab-452e-aaf3-12eb54e39073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/div[@class=&quot;ant-dropdown css-5wsri9 ant-dropdown-show-arrow ant-dropdown-placement-bottom&quot;]/ul[@class=&quot;ant-dropdown-menu ant-dropdown-menu-root ant-dropdown-menu-vertical ant-dropdown-menu-light css-5wsri9&quot;]</value>
+      <webElementGuid>75f994e3-151d-4285-b01d-2a1eb291c4b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Recycling™'])[1]/following::ul[1]</value>
+      <webElementGuid>cc3d6066-9028-41ee-917c-3cab4416f354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul</value>
+      <webElementGuid>99bff175-977e-48d7-b5cd-d19641e84ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'testadminMy ProfileLogout' or . = 'testadminMy ProfileLogout')]</value>
+      <webElementGuid>93df56f5-4da8-4b26-8f9b-8e940257d4ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

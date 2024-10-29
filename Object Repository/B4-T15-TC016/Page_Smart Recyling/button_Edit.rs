@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit</name>
+   <tag></tag>
+   <elementGuidId>c829beca-b062-48f0-8a38-42af5d5de572</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-cell-row-hover > div.flex.gap-2 > button.ant-btn.css-5wsri9.ant-btn-default.ant-btn-color-default.ant-btn-variant-outlined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a775b4fa-2441-4ed6-a702-51287a3f8d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>52d13085-6d64-41ff-8917-a9e696a6fceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined</value>
+      <webElementGuid>0311e673-973e-4f09-87b0-117b6101309c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>1eda08a6-d18d-461b-8fd2-31b7ba3af8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/div[@class=&quot;ant-layout css-5wsri9&quot;]/main[@class=&quot;ant-layout-content css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-spin-nested-loading css-5wsri9&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table-wrapper css-5wsri9&quot;]/div[@class=&quot;ant-spin-nested-loading css-5wsri9&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table css-5wsri9&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined&quot;]</value>
+      <webElementGuid>83fc6fd1-0512-499f-94c4-1b4864739eed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>51560c96-28cc-4449-9784-161d82a91d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr/td[3]/div/button</value>
+      <webElementGuid>77e327c4-0d68-4de4-88ee-ec4eea6e20b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Report'])[1]/following::button[1]</value>
+      <webElementGuid>37ecc608-4d63-42c9-b120-0750c55078cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testupdate@example.com'])[1]/following::button[1]</value>
+      <webElementGuid>fc52442b-8d07-4b40-bddf-80bae104cbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::button[1]</value>
+      <webElementGuid>e7764903-902d-4a53-8795-cf1780e19342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/button</value>
+      <webElementGuid>b7002ff8-70d4-47c7-bdd4-5bcacf72f223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>1a311a27-ca6a-4d7f-b5e9-c3dc742a7d5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

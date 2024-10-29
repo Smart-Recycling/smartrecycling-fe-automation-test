@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total Location In Malang</name>
+   <tag></tag>
+   <elementGuidId>609283cf-d7df-4496-bb8c-db0c85aa6a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div[3]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e2e5ab5c-4719-4789-98a1-f4ad1f2a53b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-statistic-title</value>
+      <webElementGuid>a88ef921-8c67-4888-a4bf-fbbe93e4bbef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Location In Malang</value>
+      <webElementGuid>525cfeb0-896a-4bba-8cdc-b9505259361e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/div[@class=&quot;ant-layout css-5wsri9&quot;]/main[@class=&quot;ant-layout-content css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-card ant-card-bordered css-5wsri9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row css-5wsri9&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-12 ant-col-md-6 ant-col-lg-6 css-5wsri9&quot;]/div[@class=&quot;ant-card hover:shadow-md transition-transform transform-gpu hover:translate-y-1 hover:bg-slate-50 css-5wsri9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-statistic css-5wsri9&quot;]/div[@class=&quot;ant-statistic-title&quot;]</value>
+      <webElementGuid>5c2ee960-dd73-4811-b8a0-3a0897274980</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>36e74323-05ea-4fdc-834e-36531dd3f874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='on Malang'])[1]/following::div[5]</value>
+      <webElementGuid>f3af91bf-bf5b-45db-b243-232752206182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Location In Malang'])[1]/following::div[6]</value>
+      <webElementGuid>47e13fd5-c5b3-4b83-94cf-d71a38e35f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='per day'])[1]/preceding::div[1]</value>
+      <webElementGuid>c4d9dcf4-353e-4e6b-82fd-e41b4b611901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Location In Malang'])[3]/preceding::div[2]</value>
+      <webElementGuid>6bda9091-713c-43c8-93e4-4498e5651717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>e55e58d9-7348-4cd2-bda4-36a365e858c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Total Location In Malang' or . = 'Total Location In Malang')]</value>
+      <webElementGuid>fef23340-14d1-4830-b310-e40189cb3fa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

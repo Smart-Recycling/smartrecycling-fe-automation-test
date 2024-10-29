@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total Location In Malang0on Malang_1</name>
+   <tag></tag>
+   <elementGuidId>a66fcc84-a2a7-4547-9e10-edfdb8db1f28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div[4]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6fd583ee-e027-422e-887c-7a764326ddaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-card-body</value>
+      <webElementGuid>a23e764f-115f-4fb9-a64b-dbf43dc3a4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Location In Malang0on Malang</value>
+      <webElementGuid>d221809b-c122-4bb0-90ff-58daf00f2e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/div[@class=&quot;ant-layout css-5wsri9&quot;]/main[@class=&quot;ant-layout-content css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-card ant-card-bordered css-5wsri9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row css-5wsri9&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-12 ant-col-md-6 ant-col-lg-6 css-5wsri9&quot;]/div[@class=&quot;ant-card hover:shadow-md transition-transform transform-gpu hover:translate-y-1 hover:bg-slate-50 css-5wsri9&quot;]/div[@class=&quot;ant-card-body&quot;]</value>
+      <webElementGuid>119c421a-90c5-46a1-bea1-6928ce358d62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div[4]/div/div</value>
+      <webElementGuid>c3f5a758-5fc6-4745-92a8-f300ac91d4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='per day'])[1]/following::div[3]</value>
+      <webElementGuid>a1500361-5735-4778-9b5c-6a116a2f9192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Location In Malang'])[2]/following::div[4]</value>
+      <webElementGuid>cabb10e7-4e05-484b-953d-2d8bef7350d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/div/div</value>
+      <webElementGuid>14d1ae53-7e91-400a-8064-7eebe4626470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Total Location In Malang0on Malang' or . = 'Total Location In Malang0on Malang')]</value>
+      <webElementGuid>d477c47b-340d-4791-a6f6-668ec47e3702</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

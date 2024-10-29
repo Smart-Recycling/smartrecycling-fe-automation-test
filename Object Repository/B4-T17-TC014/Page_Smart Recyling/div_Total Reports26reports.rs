@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total Reports26reports</name>
+   <tag></tag>
+   <elementGuidId>9bf91b53-74d3-4a71-9a4c-e4b7c886aeb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2062ad0c-73a8-4160-affd-cecc77bafab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-card-body</value>
+      <webElementGuid>ed40a34a-31bb-4cb3-9d33-e7b2e02f6a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Reports26reports</value>
+      <webElementGuid>3e6df2de-cfe6-4ead-a79b-93fdfd84a65e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/div[@class=&quot;ant-layout css-5wsri9&quot;]/main[@class=&quot;ant-layout-content css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-card ant-card-bordered css-5wsri9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row css-5wsri9&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-12 ant-col-md-6 ant-col-lg-6 css-5wsri9&quot;]/div[@class=&quot;ant-card hover:shadow-md transition-transform transform-gpu hover:translate-y-1 hover:bg-slate-50 css-5wsri9&quot;]/div[@class=&quot;ant-card-body&quot;]</value>
+      <webElementGuid>14093277-36fd-4194-a64d-f4f3f6dec45a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>9d113a69-aa09-4115-aac0-31ae9d1a31ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin'])[1]/following::div[6]</value>
+      <webElementGuid>0e6070d3-0b7c-482a-a3b1-ea849535b4be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Admin'])[1]/following::div[7]</value>
+      <webElementGuid>dde30372-1987-462a-afda-17fac9f529ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>e6778ba4-85cb-41a8-a44a-e4bf24ebb06b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Total Reports26reports' or . = 'Total Reports26reports')]</value>
+      <webElementGuid>982617ca-3324-4658-af7f-8fc76401353b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

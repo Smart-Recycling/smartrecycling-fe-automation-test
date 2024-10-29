@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Add Data_ant-input css-5wsri9 ant-inp_5b323d_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18</name>
+   <tag></tag>
+   <elementGuidId>1205d58b-2fcd-4516-b9c5-f195b52d818b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='test email@gmail.c']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.css-5wsri9.ant-input-outlined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1ead0fdb-38e4-4b58-8a70-72e0b1684de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>cd195031-49a6-4637-8d9e-2fc25fa77f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input css-5wsri9 ant-input-outlined</value>
+      <webElementGuid>607b0c6b-c6d6-49c2-9636-5ef8e14944ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9ce269f2-8af8-4a06-91eb-6731b1b5f325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>test email@gmail.c</value>
+      <webElementGuid>f648a5ea-5082-42e8-a500-5828cbf60392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/div[@class=&quot;ant-modal-root css-5wsri9&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/input[@class=&quot;ant-input css-5wsri9 ant-input-outlined&quot;]</value>
+      <webElementGuid>b7b49fad-7231-48fc-a1ef-1f5131baf961</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='test email@gmail.c']</value>
+      <webElementGuid>fcfc5b19-5a87-4dfc-9241-41a950c25bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>a4bed963-e1e4-4ed3-a1d6-1e58b067cf51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Email' and @type = 'text']</value>
+      <webElementGuid>b2223d9c-2ff1-443d-a9a7-d5d4a3f7729b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

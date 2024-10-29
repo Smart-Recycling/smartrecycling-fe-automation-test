@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://smartrecycling.natee.me/signin')
+
+WebUI.click(findTestObject('Object Repository/B1-T4-TC004/Page_Smart Recyling/div_Sign In Your AccountYour emailYour pass_466bb9'))
+
+WebUI.click(findTestObject('Object Repository/B1-T4-TC004/Page_Smart Recyling/button_Sign in your account'))
+
+WebUI.closeBrowser()
+

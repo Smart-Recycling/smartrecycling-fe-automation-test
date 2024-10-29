@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1on Malang</name>
+   <tag></tag>
+   <elementGuidId>b9d54b5d-bc5a-4bf1-9801-214db735d2be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14e09322-e1c3-40da-9626-7af71428c09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-statistic-content</value>
+      <webElementGuid>c68dc15a-5e4c-46f8-a20f-e7627c351f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1on Malang</value>
+      <webElementGuid>003d89c5-e7b0-4a83-bca6-03e399fa028c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/div[@class=&quot;ant-layout css-5wsri9&quot;]/main[@class=&quot;ant-layout-content css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-card ant-card-bordered css-5wsri9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row css-5wsri9&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-12 ant-col-md-6 ant-col-lg-6 css-5wsri9&quot;]/div[@class=&quot;ant-card hover:shadow-md transition-transform transform-gpu hover:translate-y-1 hover:bg-slate-50 css-5wsri9&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-statistic css-5wsri9&quot;]/div[@class=&quot;ant-statistic-content&quot;]</value>
+      <webElementGuid>ca68ebbb-6f6e-4d08-b520-2cd03ba0881d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>b1a536a1-c2ac-4e52-9590-ea78fd8de895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Location In Malang'])[1]/following::div[1]</value>
+      <webElementGuid>e226339b-4830-4d3a-95e8-8e546f02d2d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='reports'])[1]/following::div[6]</value>
+      <webElementGuid>315cbcfa-a97a-45c5-aa0e-8cc5efaf8fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Location In Malang'])[2]/preceding::div[1]</value>
+      <webElementGuid>75c693fc-336d-4b3d-af60-657b8438a3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>82d7f901-8be0-429d-84e3-32f3118a9b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1on Malang' or . = '1on Malang')]</value>
+      <webElementGuid>d21016ce-afa1-4f58-91a1-e1ac72306bf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HomeServices Report TrashMobile AppBlog_f22b37</name>
+   <tag></tag>
+   <elementGuidId>05e8c923-2c59-4698-ba1f-cf3adda84acc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/nav/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.max-w-screen-xl.flex.flex-wrap.items-center.mx-auto.p-4.justify-between</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07165bcc-9915-4fd5-9f17-34b31cc8a7fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-screen-xl flex flex-wrap items-center mx-auto p-4 justify-between</value>
+      <webElementGuid>87264e14-5482-401a-b980-9051a309b807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAbout</value>
+      <webElementGuid>f26ba152-c811-46e6-a4c5-ba2482c0ba46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;min-h-screen&quot;]/nav[@class=&quot;fixed w-full z-20 top-0 left-0 border-b border-gray-300 bg-white&quot;]/div[@class=&quot;max-w-screen-xl flex flex-wrap items-center mx-auto p-4 justify-between&quot;]</value>
+      <webElementGuid>f1ae2fb6-c666-44a7-b7d9-de06cdb364e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/nav/div</value>
+      <webElementGuid>e7e92927-6235-4ab7-a6c6-f89f79b2dd48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recycling Made Easier'])[1]/preceding::div[5]</value>
+      <webElementGuid>7e6d3323-52fe-43d2-b73c-a3edd90e5d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div</value>
+      <webElementGuid>3da2c0ba-40e3-4e56-8ea7-afc08716144b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAbout' or . = 'HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAbout')]</value>
+      <webElementGuid>3ef120b1-4baa-436a-9cfc-d2034cdecc87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8a0f785a-52a7-4812-a68f-da10b337c83d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/nav/div/div/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-avatar.ant-avatar-circle.ant-avatar-image.ant-dropdown-trigger.ant-dropdown-open.css-5wsri9 > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8d2a20fc-8c47-488d-8ee9-83cc6800576e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://xsgames.co/randomusers/avatar.php?g=pixel&amp;key=1</value>
+      <webElementGuid>9153686c-7784-4e2c-9d4a-c49a5da03c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;min-h-screen&quot;]/nav[@class=&quot;fixed w-full z-20 top-0 left-0 border-b border-gray-300 bg-white&quot;]/div[@class=&quot;max-w-screen-xl flex flex-wrap items-center mx-auto p-4 justify-between&quot;]/div[@class=&quot;flex md:order-2&quot;]/span[@class=&quot;ant-avatar ant-avatar-circle ant-avatar-image ant-dropdown-trigger ant-dropdown-open css-5wsri9&quot;]/img[1]</value>
+      <webElementGuid>04fa585d-6364-40cc-ab72-0991d6f6e636</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/nav/div/div/span/img</value>
+      <webElementGuid>f337793f-b441-40bb-8c2f-a9a2b387d341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://xsgames.co/randomusers/avatar.php?g=pixel&amp;key=1')]</value>
+      <webElementGuid>1534626b-cb7b-4e37-ab6c-aa0257499b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>baebaba4-738c-487b-8741-50cb75e608c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://xsgames.co/randomusers/avatar.php?g=pixel&amp;key=1']</value>
+      <webElementGuid>74ddcde5-d9c5-43ed-afdd-7e769e33252f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

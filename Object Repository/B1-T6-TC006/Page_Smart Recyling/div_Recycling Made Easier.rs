@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recycling Made Easier</name>
+   <tag></tag>
+   <elementGuidId>5755092e-af13-49b0-ab1e-4188f473738c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42b57074-2793-44fa-ba4d-f17e957ba41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-black text-primary sm:text-5xl md:text-5xl lg:text-7xl xl:text-7xl text-5xl max-[640px]:text-center max-[640px]:text-3xl</value>
+      <webElementGuid>b171fa4b-c40a-47ec-a501-352130cf6726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>67616b20-99c7-4482-8718-b024da5d74e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recycling Made Easier</value>
+      <webElementGuid>181c5f72-bd0e-4b87-a823-5a063ac7061b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;min-h-screen&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;grid max-w-screen-xl mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 my-10 lg:pt-8 xl:pt-24&quot;]/div[@class=&quot;lg:col-span-7 sm:pt-16 sm:text-center md:text-center lg:text-start xl:text-start pt-12 max-[640px]:px-12&quot;]/div[@class=&quot;font-black text-primary sm:text-5xl md:text-5xl lg:text-7xl xl:text-7xl text-5xl max-[640px]:text-center max-[640px]:text-3xl&quot;]</value>
+      <webElementGuid>3fac491a-c963-447c-9cde-39995e6af8a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div/div</value>
+      <webElementGuid>30992497-272f-48e7-ae83-dd177455a09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::div[6]</value>
+      <webElementGuid>1bc0dd43-7bc1-4a56-8e21-7067dba4d514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[7]</value>
+      <webElementGuid>d17db002-bd04-4dfb-829f-923b6e9ed0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ansel Adam'])[1]/preceding::div[36]</value>
+      <webElementGuid>18ff2216-83c8-4f6f-bcf7-5c5a31935cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='American landscape photographer'])[1]/preceding::div[37]</value>
+      <webElementGuid>e5ccae4d-c4ec-4fd2-9a02-08059ffe860b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recycling Made Easier']/parent::*</value>
+      <webElementGuid>25f9795c-dbf3-49a6-9053-0d6df859f8c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>579a6ce7-d3f1-4973-9665-b51da1179cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Recycling Made Easier' or . = 'Recycling Made Easier')]</value>
+      <webElementGuid>75b5324c-79cf-46e6-9327-c4f705035d67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Add Data_ant-input css-5wsri9 ant-inp_4322cf_1_2_3_4_5_6_7_8_9_10_11_12</name>
+   <tag></tag>
+   <elementGuidId>78a23dd8-3553-4a4a-8a3a-04a17d976a22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='test locati']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a061a136-eece-4d5a-b8a8-c66e52175350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Location</value>
+      <webElementGuid>9a435ef6-27be-4d1b-835c-633e1ddc00a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input css-5wsri9 ant-input-outlined mt-2</value>
+      <webElementGuid>f6c9b2c7-79fa-43c8-8e3a-9e2a1de51e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f84745f2-2dce-4b0e-80b1-8f877f75b447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>test locati</value>
+      <webElementGuid>74d9cfa4-408f-47b8-a188-2c6da892bd3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/div[@class=&quot;ant-modal-root css-5wsri9&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/input[@class=&quot;ant-input css-5wsri9 ant-input-outlined mt-2&quot;]</value>
+      <webElementGuid>4e24ea42-91a2-4104-ae23-cdbefb2f80f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='test locati']</value>
+      <webElementGuid>8cabefb6-f332-4c1a-b95f-550e3e2643f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[3]</value>
+      <webElementGuid>b9a98285-c9ce-40c3-9be9-08ece540da39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Location' and @type = 'text']</value>
+      <webElementGuid>d55b73dd-4824-4078-b991-cd5cf108f84b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

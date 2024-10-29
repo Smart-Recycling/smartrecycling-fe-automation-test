@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Services</name>
+   <tag></tag>
+   <elementGuidId>38f4b181-ccc8-4e6e-a871-065f9b0ce7f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/nav/div/div[2]/ul/li/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c32a1b53-98b3-4418-91c6-7c1a5c49ef4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-between w-full py-2 pl-3 pr-4 text-gray-900 rounded hover:text-primary md:p-0 md:w-auto</value>
+      <webElementGuid>d2d00c62-dbb5-467e-b5fb-037472cd581c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Services </value>
+      <webElementGuid>f9dfc4f4-88c7-44c9-82ab-3f05f9bb4196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;min-h-screen&quot;]/nav[@class=&quot;fixed w-full z-20 top-0 left-0 border-b border-gray-300 bg-white&quot;]/div[@class=&quot;max-w-screen-xl flex flex-wrap items-center mx-auto p-4 justify-between&quot;]/div[@class=&quot;w-full md:block md:w-auto hidden&quot;]/ul[@class=&quot;flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white items-center&quot;]/li[1]/button[@class=&quot;flex items-center justify-between w-full py-2 pl-3 pr-4 text-gray-900 rounded hover:text-primary md:p-0 md:w-auto&quot;]</value>
+      <webElementGuid>f8ec865a-61b8-4478-8c14-b1e8b47f477b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/nav/div/div[2]/ul/li/button</value>
+      <webElementGuid>dbdabb42-c1ad-4595-a2ed-002eaa854dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recycling Made Easier'])[1]/preceding::button[1]</value>
+      <webElementGuid>feb4ee52-b3ac-4a76-83b9-64662ba3d237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ansel Adam'])[1]/preceding::button[1]</value>
+      <webElementGuid>d8c18dac-d6b4-4123-a4da-35d861ab2aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Services']/parent::*</value>
+      <webElementGuid>41f28a41-67b8-4d3c-8814-82966b89544a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>d05f11c7-58ed-4e50-8988-f876e97f7663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Services ' or . = 'Services ')]</value>
+      <webElementGuid>1e79d7d3-7cc9-4790-b8f1-6ac58062ddfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

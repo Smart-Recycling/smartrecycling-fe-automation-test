@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back to Home</name>
+   <tag></tag>
+   <elementGuidId>f2442a47-ed68-48b4-9a06-b6d9d3c76f7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[4]/a/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>debde0aa-1763-42e0-a55c-7cc27a816b63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to Home</value>
+      <webElementGuid>1fda440f-f672-4fd4-b8c0-2bc389ae59cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex items-center justify-center h-screen&quot;]/div[@class=&quot;ant-result ant-result-404 css-5wsri9&quot;]/div[@class=&quot;ant-result-extra&quot;]/a[1]/button[@class=&quot;ant-btn css-5wsri9 ant-btn-text ant-btn-color-default ant-btn-variant-text bg-primary text-white hover:text-white&quot;]/span[1]</value>
+      <webElementGuid>67032408-e173-4aa7-a85d-da691e9b8671</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[4]/a/button/span</value>
+      <webElementGuid>455317af-3cbc-46c3-97b8-901782a95511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sorry, the page you visited does not exist.'])[1]/following::span[1]</value>
+      <webElementGuid>d254ae19-f799-416d-b97f-6e01c781ab8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to Home']/parent::*</value>
+      <webElementGuid>028a9d9a-7d12-44e5-bacd-36152402599b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>4b87e539-d11a-4625-9bd1-a8615d1ffcbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Back to Home' or . = 'Back to Home')]</value>
+      <webElementGuid>9aecdec9-7be4-4621-99ac-6237ecb4e93e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

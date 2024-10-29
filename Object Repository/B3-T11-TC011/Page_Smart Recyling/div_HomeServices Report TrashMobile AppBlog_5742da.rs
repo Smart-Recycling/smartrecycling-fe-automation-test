@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HomeServices Report TrashMobile AppBlog_5742da</name>
+   <tag></tag>
+   <elementGuidId>4076a279-c1b1-4e66-b2f5-2b8de8db821d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a23992b6-0f81-489e-8841-63a1e9f4e294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>root</value>
+      <webElementGuid>bb2dbad0-7601-4d5f-a8c8-093e87a33727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAboutReport TrashReport trash in the area around youYour emailYour subjectYour locationSend ReportsSmart RecyclingAboutSmart RecyclingCommunityFollow UsGithubDiscordLegalPrivacy PolicyTerms &amp; Conditions© 2023Smart Recycling™</value>
+      <webElementGuid>aa1633bf-fd04-464e-b24f-be7d23293ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)</value>
+      <webElementGuid>c3099657-f645-4604-b4d1-fe3a979d8a26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='root']</value>
+      <webElementGuid>8ee7e730-d1e6-47c8-8080-5587f6b71743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>890d22f8-46b5-4915-8403-2555b4e57d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'root' and (text() = 'HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAboutReport TrashReport trash in the area around youYour emailYour subjectYour locationSend ReportsSmart RecyclingAboutSmart RecyclingCommunityFollow UsGithubDiscordLegalPrivacy PolicyTerms &amp; Conditions© 2023Smart Recycling™' or . = 'HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAboutReport TrashReport trash in the area around youYour emailYour subjectYour locationSend ReportsSmart RecyclingAboutSmart RecyclingCommunityFollow UsGithubDiscordLegalPrivacy PolicyTerms &amp; Conditions© 2023Smart Recycling™')]</value>
+      <webElementGuid>13070fdd-6160-471d-8024-a9c303b321f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delete</name>
+   <tag></tag>
+   <elementGuidId>525354d8-5c9a-4b91-9e3f-3178476917d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[10]/td[3]/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-cell-row-hover > div.flex.gap-2 > button.ant-btn.css-5wsri9.ant-btn-default.ant-btn-dangerous.ant-btn-color-dangerous.ant-btn-variant-outlined > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>63b7d30c-6fdc-48d6-a499-41ecc6995918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>ce9222de-55f8-4178-b03f-00504f888b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/div[@class=&quot;ant-layout css-5wsri9&quot;]/main[@class=&quot;ant-layout-content css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-spin-nested-loading css-5wsri9&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table-wrapper css-5wsri9&quot;]/div[@class=&quot;ant-spin-nested-loading css-5wsri9&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table css-5wsri9&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;ant-btn css-5wsri9 ant-btn-default ant-btn-dangerous ant-btn-color-dangerous ant-btn-variant-outlined&quot;]/span[1]</value>
+      <webElementGuid>b793181c-0f8b-4733-ba5d-37eddad209df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[10]/td[3]/div/button[2]/span</value>
+      <webElementGuid>b24c8fa9-058c-42d6-be61-d0bcfad1fc36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[10]/following::span[1]</value>
+      <webElementGuid>185c5fe8-49c8-46dd-89d5-e1beae92a438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Report'])[8]/following::span[2]</value>
+      <webElementGuid>27903c79-bf0a-4cfc-be59-367c0c1e4780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Recycling'])[1]/preceding::span[3]</value>
+      <webElementGuid>212a696c-29cf-4fd5-a433-2f6953cf2f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::span[4]</value>
+      <webElementGuid>04884ba7-d52f-4329-84c0-355d222db1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[3]/div/button[2]/span</value>
+      <webElementGuid>af95c4a8-0913-4027-bb18-93001ec022d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>e73ef657-cbc2-49fb-8cfa-138711747a92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_User Info_ant-layout-header css-5wsri9</name>
+   <tag></tag>
+   <elementGuidId>e33c6008-7140-4898-9343-5180013c4ad1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.ant-layout-header.css-5wsri9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>28ed1ace-063b-4470-985b-da778b532461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-layout-header css-5wsri9</value>
+      <webElementGuid>cb32e8ef-9143-46e2-a0e2-c12f0e12d54a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout css-5wsri9&quot;]/header[@class=&quot;ant-layout-header css-5wsri9&quot;]</value>
+      <webElementGuid>7df570c4-cfbe-4765-b912-768eb660063d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header</value>
+      <webElementGuid>d50ee261-af5a-4a74-8320-285d0b4d55d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Info'])[1]/preceding::header[1]</value>
+      <webElementGuid>e85930aa-e446-4e69-b559-3b5ace2ddbfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::header[1]</value>
+      <webElementGuid>4c4ccb7a-6658-4ce2-979b-00b937f4f202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>2a78aa7d-1d1c-4524-99fd-cb9605b3425d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

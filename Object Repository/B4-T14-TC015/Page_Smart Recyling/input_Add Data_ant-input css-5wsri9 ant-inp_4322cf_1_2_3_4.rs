@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Add Data_ant-input css-5wsri9 ant-inp_4322cf_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>bd6a5945-a06a-4963-a0cf-d156e6af4c05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='test subje']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.css-5wsri9.ant-input-outlined.mt-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>15603067-7809-4e73-ae00-4893fbda62b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Subject</value>
+      <webElementGuid>af4c8306-9bfa-4e2d-aa98-98ee0985a257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input css-5wsri9 ant-input-outlined mt-2</value>
+      <webElementGuid>33172a32-977c-458e-9890-853655631463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4579aba6-7db9-4497-8f0c-647a9d08b011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>test subje</value>
+      <webElementGuid>9907dfbc-5244-4c8b-a793-27b30928b590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/div[@class=&quot;ant-modal-root css-5wsri9&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/input[@class=&quot;ant-input css-5wsri9 ant-input-outlined mt-2&quot;]</value>
+      <webElementGuid>73de85bb-d39b-4555-b3d1-2d7c26075081</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='test subje']</value>
+      <webElementGuid>8f309758-d422-41a4-89d3-56d4de6e73a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>ec65681d-ea86-4594-8340-42690165653f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Subject' and @type = 'text']</value>
+      <webElementGuid>94f2041c-98e0-4900-b123-46cae75c12b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

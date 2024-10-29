@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Report submitted successfully_ant-notific_e761ec</name>
+   <tag></tag>
+   <elementGuidId>ff579807-8c7f-43e5-809c-30f45926c0e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Report submitted successfully!'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ant-notification-notice-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dcce5514-4a8c-4c38-896f-ba02b4e320e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1a548646-5055-434e-b589-ad81ce2dc08b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-notification-notice-close</value>
+      <webElementGuid>de18dfab-ad1e-44d7-9213-a23fe22b23f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>1b793466-a9b5-4fcc-8855-ad3f515ca2a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;ant-notification ant-notification-topRight css-5wsri9 ant-notification-stack ant-notification-stack-expanded&quot;]/div[@class=&quot;ant-notification-notice-wrapper&quot;]/div[@class=&quot;ant-notification-notice ant-notification-notice-success ant-notification-notice-closable&quot;]/a[@class=&quot;ant-notification-notice-close&quot;]</value>
+      <webElementGuid>2124d279-94d6-4468-a33d-a9c35c286b7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report submitted successfully!'])[1]/following::a[1]</value>
+      <webElementGuid>bac1a3c5-8ff6-4d5b-9e74-799adf7a7981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::a[1]</value>
+      <webElementGuid>9182f892-b3e9-43a1-b423-f80d54d2d2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>76d522d3-2606-4920-92dd-e15335132779</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

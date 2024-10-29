@@ -21,14 +21,26 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://smartrecycling.natee.me/signin')
 
-WebUI.setText(findTestObject('Object Repository/B1-T1-TC003/Page_Smart Recyling/input_Your email_email'), 'testadmin')
+WebUI.setText(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/input_Your email_email'), 'testadmin@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/B1-T1-TC003/Page_Smart Recyling/input_Your password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/input_Your password_password'), 
     '/Rw3v+Z2S+H8yM6cykkndg==')
 
-WebUI.click(findTestObject('Object Repository/B1-T1-TC003/Page_Smart Recyling/button_Sign in your account'))
+WebUI.click(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/button_Sign in your account'))
 
-WebUI.click(findTestObject('Object Repository/B1-T1-TC003/Page_Smart Recyling/div_Sign In Your AccountYour emailYour pass_466bb9'))
+WebUI.click(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/div_HomeServices Report TrashMobile AppBlog_f22b37'))
+
+WebUI.click(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/button_Services'))
+
+WebUI.click(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/p_Report Trash'))
+
+WebUI.setText(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/input_Your subject_subject'), 'test subject')
+
+WebUI.setText(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/input_Your location_location'), 'test location')
+
+WebUI.click(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/button_Send Reports'))
+
+WebUI.click(findTestObject('Object Repository/B3-T11-TC011/Page_Smart Recyling/div_Your emailYour subjectYour locationSend_330812'))
 
 WebUI.closeBrowser()
 

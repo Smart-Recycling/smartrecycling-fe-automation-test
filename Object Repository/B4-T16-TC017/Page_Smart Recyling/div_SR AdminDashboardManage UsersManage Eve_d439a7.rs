@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SR AdminDashboardManage UsersManage Eve_d439a7</name>
+   <tag></tag>
+   <elementGuidId>8b83bda3-844b-4654-bed1-fcd05e390edc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/aside/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-layout-sider-children</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d32e8a9-a8bc-40fc-8d7c-e0d946e76fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-layout-sider-children</value>
+      <webElementGuid>b30103ff-c0b9-4ab7-985b-340eecd1f4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SR AdminDashboardManage UsersManage EventsManage ReportsManage Exchange</value>
+      <webElementGuid>1d0b21dc-9bc9-452d-9179-0b713a5c9c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-light ant-layout-sider-below css-5wsri9&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]</value>
+      <webElementGuid>4a60bb31-19d6-44cb-87fb-5dd1f2cfdd85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/aside/div</value>
+      <webElementGuid>725ce1fa-8acc-4162-86f6-e7899f143505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div</value>
+      <webElementGuid>429808e0-01ad-4270-8bcb-68bfe14d24e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SR AdminDashboardManage UsersManage EventsManage ReportsManage Exchange' or . = 'SR AdminDashboardManage UsersManage EventsManage ReportsManage Exchange')]</value>
+      <webElementGuid>05be8ff1-742f-4ba9-afaa-c92a2cae7877</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your emailYour subjectYour locationSend_330812</name>
+   <tag></tag>
+   <elementGuidId>ecebe0d7-e7b1-4125-b45c-83c525dd99dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.max-w-screen-xl.px-4.mx-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6764b05-6862-4d2d-a9e0-a8c35dc6f1bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-screen-xl px-4 mx-auto</value>
+      <webElementGuid>babf2b64-7189-42b1-9709-36a0bb0deced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your emailYour subjectYour locationSend Reports</value>
+      <webElementGuid>a3a84116-c79f-4dd7-af47-1724fbdba435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container mx-auto max-[640px]:my-10 sm:my-10 md:my-10 lg:my-10 xl:my-10&quot;]/div[@class=&quot;max-w-screen-xl px-4 mx-auto&quot;]</value>
+      <webElementGuid>4ec62f51-a016-4473-9547-e114eb19d07c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div</value>
+      <webElementGuid>c6a1457c-a66e-4513-8879-6ca23afc540e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::div[4]</value>
+      <webElementGuid>4f6dea39-6ee8-494e-93a7-3aca5fc49afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>3b3321b3-76fe-4963-b828-8ed85f53331c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your emailYour subjectYour locationSend Reports' or . = 'Your emailYour subjectYour locationSend Reports')]</value>
+      <webElementGuid>4a826565-c866-4c9d-8e5e-d3bad7983b16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

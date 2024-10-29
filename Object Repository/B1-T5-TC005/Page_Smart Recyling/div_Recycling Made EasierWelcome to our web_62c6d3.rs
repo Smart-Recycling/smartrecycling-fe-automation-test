@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recycling Made EasierWelcome to our web_62c6d3</name>
+   <tag></tag>
+   <elementGuidId>2b6ec380-9017-4a73-b630-a3143f456b1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>834eb429-79aa-4bfc-b431-0cbfba839fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:col-span-7 sm:pt-16 sm:text-center md:text-center lg:text-start xl:text-start pt-12 max-[640px]:px-12</value>
+      <webElementGuid>00d89345-3635-4df7-b33b-149ae02cf49d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recycling Made EasierWelcome to our website, a space where we encourage positive transformation by repurposing waste, contributing to the preservation of our planets green and sustainable future.</value>
+      <webElementGuid>e05b6130-3917-454e-9e0f-6c97c3a90be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;min-h-screen&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;grid max-w-screen-xl mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 my-10 lg:pt-8 xl:pt-24&quot;]/div[@class=&quot;lg:col-span-7 sm:pt-16 sm:text-center md:text-center lg:text-start xl:text-start pt-12 max-[640px]:px-12&quot;]</value>
+      <webElementGuid>d660f4a4-b59c-40e2-8cfa-d0d6cbca7e53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div</value>
+      <webElementGuid>71bc3405-e6c9-431f-ac39-afd2157f9ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::div[5]</value>
+      <webElementGuid>ba7e7daf-06e5-4499-8009-00a4ed46f9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[6]</value>
+      <webElementGuid>b69dda08-da09-47a7-a121-df3de041a76a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ansel Adam'])[1]/preceding::div[37]</value>
+      <webElementGuid>bc8dacdf-ead3-48c0-9641-f233e1150b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>6857d71a-8706-4e32-b5d9-4110154fc71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Recycling Made EasierWelcome to our website, a space where we encourage positive transformation by repurposing waste, contributing to the preservation of our planets green and sustainable future.' or . = 'Recycling Made EasierWelcome to our website, a space where we encourage positive transformation by repurposing waste, contributing to the preservation of our planets green and sustainable future.')]</value>
+      <webElementGuid>4a6ae510-04ef-4259-8b90-599d04dbeb84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

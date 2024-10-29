@@ -19,16 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://smartrecycling.natee.me/signin')
+WebUI.navigateToUrl('https://smartrecycling.natee.me/signup')
 
-WebUI.setText(findTestObject('Object Repository/B1-T1-TC003/Page_Smart Recyling/input_Your email_email'), 'testadmin')
+WebUI.setText(findTestObject('Object Repository/B2-T7-TC007/Page_Smart Recyling/input_Your name_name'), 'rizkytest')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/B1-T1-TC003/Page_Smart Recyling/input_Your password_password'), 
-    '/Rw3v+Z2S+H8yM6cykkndg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/B2-T7-TC007/Page_Smart Recyling/input_Your password_password'), 
+    'Dd12qjOIDemfKM+v6x+yVg==')
 
-WebUI.click(findTestObject('Object Repository/B1-T1-TC003/Page_Smart Recyling/button_Sign in your account'))
+WebUI.click(findTestObject('Object Repository/B2-T7-TC007/Page_Smart Recyling/button_Sign up your account'))
 
-WebUI.click(findTestObject('Object Repository/B1-T1-TC003/Page_Smart Recyling/div_Sign In Your AccountYour emailYour pass_466bb9'))
+WebUI.click(findTestObject('Object Repository/B2-T7-TC007/Page_Smart Recyling/div_Create Your AccountYour nameYour emailY_06ab16'))
 
 WebUI.closeBrowser()
 

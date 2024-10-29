@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_HomeServices Report TrashMobile AppBlo_d32780</name>
+   <tag></tag>
+   <elementGuidId>ff51c85e-485e-4250-8639-170454705af1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>main.min-h-screen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>67912577-b860-417e-83f9-801498ae125a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-h-screen</value>
+      <webElementGuid>e93f0335-a9d9-4904-bea0-607d23fb149b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAboutRecycling Made EasierWelcome to our website, a space where we encourage positive transformation by repurposing waste, contributing to the preservation of our planets green and sustainable future.It is horrifying that we have to fight our own government to save the environment.Ansel AdamAmerican landscape photographerWe invest in the world’s potentialAt Smart Recycling, our primary commitment lies in revolutionizing rubbish disposal through the power of technology, innovation, and strategic investment.We help people dispose of rubbishAt Smart Recycling, we`re dedicated to transforming the way you handle waste management, making it easier and more convenient for you to dispose of rubbish. Our innovative solutions are designed to simplify the process, ensuring a cleaner and more sustainable environment for all.Contact UsLearn more</value>
+      <webElementGuid>5278ab36-0bb5-4ed7-8688-81998e08893c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;min-h-screen&quot;]</value>
+      <webElementGuid>a2f7b139-091a-4840-9fc8-023ebbeb668d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main</value>
+      <webElementGuid>23d52527-daaa-45dd-b7ed-1a3126400b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>4c066444-5ae8-4b88-91e0-c3acc4fc8c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAboutRecycling Made EasierWelcome to our website, a space where we encourage positive transformation by repurposing waste, contributing to the preservation of our planets green and sustainable future.It is horrifying that we have to fight our own government to save the environment.Ansel AdamAmerican landscape photographerWe invest in the world’s potentialAt Smart Recycling, our primary commitment lies in revolutionizing rubbish disposal through the power of technology, innovation, and strategic investment.We help people dispose of rubbishAt Smart Recycling, we`re dedicated to transforming the way you handle waste management, making it easier and more convenient for you to dispose of rubbish. Our innovative solutions are designed to simplify the process, ensuring a cleaner and more sustainable environment for all.Contact UsLearn more' or . = 'HomeServices Report TrashMobile AppBlog &amp; EventExchange PointsContactAboutRecycling Made EasierWelcome to our website, a space where we encourage positive transformation by repurposing waste, contributing to the preservation of our planets green and sustainable future.It is horrifying that we have to fight our own government to save the environment.Ansel AdamAmerican landscape photographerWe invest in the world’s potentialAt Smart Recycling, our primary commitment lies in revolutionizing rubbish disposal through the power of technology, innovation, and strategic investment.We help people dispose of rubbishAt Smart Recycling, we`re dedicated to transforming the way you handle waste management, making it easier and more convenient for you to dispose of rubbish. Our innovative solutions are designed to simplify the process, ensuring a cleaner and more sustainable environment for all.Contact UsLearn more')]</value>
+      <webElementGuid>1f2f1637-fcc9-4cd7-8df2-9c1f2ad902a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

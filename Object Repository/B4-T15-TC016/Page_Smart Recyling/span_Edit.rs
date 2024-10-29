@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Edit</name>
+   <tag></tag>
+   <elementGuidId>b3593c8b-0734-48ce-8022-f6423a5e43da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[4]/td[3]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-cell-row-hover > div.flex.gap-2 > button.ant-btn.css-5wsri9.ant-btn-default.ant-btn-color-default.ant-btn-variant-outlined > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40572238-9448-45e7-89bf-dbcfea938a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>7ccb164e-7b88-4abb-b656-4f18d35be8ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/div[@class=&quot;ant-layout css-5wsri9&quot;]/main[@class=&quot;ant-layout-content css-5wsri9&quot;]/div[1]/div[@class=&quot;ant-spin-nested-loading css-5wsri9&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table-wrapper css-5wsri9&quot;]/div[@class=&quot;ant-spin-nested-loading css-5wsri9&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table css-5wsri9&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;ant-btn css-5wsri9 ant-btn-default ant-btn-color-default ant-btn-variant-outlined&quot;]/span[1]</value>
+      <webElementGuid>b6eb6c3f-0f18-40a0-ba59-f14254a2ad00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[4]/td[3]/div/button/span</value>
+      <webElementGuid>aef5adcf-9c76-442b-aa37-d9a3c4faa65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Report'])[3]/following::span[1]</value>
+      <webElementGuid>ddc1b206-6d6b-4c52-9a3a-76b3284db369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test@example.com'])[2]/following::span[1]</value>
+      <webElementGuid>590abc9c-d6de-4b33-9ec9-7695668bed7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[4]/preceding::span[1]</value>
+      <webElementGuid>dad66bda-c756-4667-81f2-38ce30483f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test@example.com'])[3]/preceding::span[2]</value>
+      <webElementGuid>aac304c5-2b51-4976-a725-5f478aa556c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[3]/div/button/span</value>
+      <webElementGuid>6ad1de08-b19f-4a44-97d6-6738852e1960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>91ff090a-8ab5-4371-85f4-8421ccc01b63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

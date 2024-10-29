@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EmailSubjecthadehgmail.combanyak sampah_9c2c32</name>
+   <tag></tag>
+   <elementGuidId>8a7d1a31-ebb8-4497-a7bc-a4a20b942c50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-table-wrapper.css-5wsri9 > div.ant-spin-nested-loading.css-5wsri9 > div.ant-spin-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76073d0f-e676-4509-82e2-c0a43bd38005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-spin-container</value>
+      <webElementGuid>597cd9a6-b9d3-49b2-bff2-9b49e85d2bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EmailSubjecthadeh@gmail.combanyak sampahhadeh@gmail.combanyak sampahtest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Report123</value>
+      <webElementGuid>7a92758c-1172-43cb-8541-fa6fd61f8f67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout ant-layout-has-sider css-5wsri9&quot;]/div[@class=&quot;ant-layout css-5wsri9&quot;]/main[@class=&quot;ant-layout-content css-5wsri9&quot;]/div[1]/div[1]/div[@class=&quot;ant-spin-nested-loading css-5wsri9&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table-wrapper css-5wsri9&quot;]/div[@class=&quot;ant-spin-nested-loading css-5wsri9&quot;]/div[@class=&quot;ant-spin-container&quot;]</value>
+      <webElementGuid>837786aa-deaa-42e6-bc2e-decd75e76d81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div/div/div/div/div/div</value>
+      <webElementGuid>d59a178c-a297-4dd0-a6f1-5a4c9b39fbc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Exchange'])[1]/following::div[9]</value>
+      <webElementGuid>1a307db0-5f94-4c24-b33e-c8a891d46515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Reports'])[1]/following::div[9]</value>
+      <webElementGuid>9773dd61-fd9a-4ef3-aa61-b06c061224b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div</value>
+      <webElementGuid>a4215c6c-28d1-4d58-8de9-697433f5d6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EmailSubjecthadeh@gmail.combanyak sampahhadeh@gmail.combanyak sampahtest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Report123' or . = 'EmailSubjecthadeh@gmail.combanyak sampahhadeh@gmail.combanyak sampahtest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Reporttest@example.comTest Report123')]</value>
+      <webElementGuid>63b6d300-30f9-4543-b48a-3714b6efb4e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

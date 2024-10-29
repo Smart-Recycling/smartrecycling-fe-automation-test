@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_User Info_flex items-start h-8 mr-3</name>
+   <tag></tag>
+   <elementGuidId>2445c7eb-6106-4041-8b19-0019f1596a1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.flex.items-start.h-8.mr-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9bc08e5d-6ea4-4992-aa5f-0e6ef9cc413a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/logo.png</value>
+      <webElementGuid>e42cf6a4-88e1-4069-982d-2874f69b0383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-start h-8 mr-3</value>
+      <webElementGuid>2af111b9-4d62-463f-83e0-a0ddcbd9a70e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Smart Recycling Logo</value>
+      <webElementGuid>1fb0a71e-f6ac-4ff4-b557-7f233ff511c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-layout css-5wsri9&quot;]/header[@class=&quot;ant-layout-header css-5wsri9&quot;]/a[1]/img[@class=&quot;flex items-start h-8 mr-3&quot;]</value>
+      <webElementGuid>8671f8f5-e5a5-4261-b1bb-2cf1b658f02d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/a/img</value>
+      <webElementGuid>77d6371d-b074-48ee-af24-7d670b87bc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Smart Recycling Logo']</value>
+      <webElementGuid>fc855170-943e-4edb-b980-0042e6da5e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>e24b8664-4d3e-4c37-8ac9-7888d6eb1783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/logo.png' and @alt = 'Smart Recycling Logo']</value>
+      <webElementGuid>652391b6-c64a-4e6a-8d1b-c6815c09408e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
